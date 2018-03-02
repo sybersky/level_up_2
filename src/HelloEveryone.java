@@ -4,6 +4,6 @@
 public class HelloEveryone {
 
     public static void main(String[] args) {
-        System.out.println("asdasdasd");
+        System.out.println("asdasdasd asd asda sd asd asd asdasd asdasd");
     }
 }
